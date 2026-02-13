@@ -42,7 +42,7 @@ body {
   .message {
     display: none;
     margin-top: 30px;
-    color: white;
+    color: #ff4d6d;
   }
 .message p {
   margin-bottom: 18px;
@@ -66,4 +66,5 @@ body {
 
 
   
+
 
