@@ -1,19 +1,19 @@
 const answers_no = {
     french: [
       "Non",
-      "Tu es sûr ?",
-      "Vraiment sûr ??",
-      "Vraiment vraiment sûr ???",
-      "Réfléchis encore",
-      "Pourquoi tu es si froid ?",
-      "On peut en parler ?",
+      "Tu es sûr Oumaima🥺?",
+      "Vraiment sûr ma princesse🥺 ??",
+      "Arreeeetteee je vais me facher 🤬​???",
+      "Réfléchis encore STPP",
+      "Pourquoi tu es si froide ?",
+      "Bon, si tu refuse je revoyage 😈​?",
       "S’il te plaît 🥺",
-      "Je t’en supplie",
+      "Tu dit encore non, j'accepte pas ton chat chez moi🐱​",
       "Ok ça fait mal 😭",
-      "Tu es méchant",
-      "Pourquoi tu fais ça",
-      "Une chance stp",
-      "Bon… encore une fois",
+      "Tu es méchante je vais me pleindre a tata",
+      "Je vais dire a Khalid on a voyagé🙃​",
+      "OK on smarie plus💔​",
+      "Bon… C'est Ta derniere chance😤​ ",
       "On recommence 😐"
     ]
   };
@@ -68,4 +68,5 @@ const answers_no = {
     banner.src = "";
     banner.src = src;
   }
+
   
