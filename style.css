@@ -64,6 +64,24 @@ body {
   margin-top: 20px;
 }
 
+.images-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  margin-top: 30px;
+}
+
+.love-gif {
+  width: 220px;
+}
+
+.mini-photo {
+  width: 150px;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
 
   
+
 
