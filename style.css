@@ -44,4 +44,25 @@ body {
     margin-top: 30px;
     color: #ff4d6d;
   }
+.message p {
+  margin-bottom: 18px;
+  font-size: 18px;
+}
+
+.message h2 {
+  font-size: 28px;
+  margin-bottom: 25px;
+}
+
+.message h3 {
+  margin-top: 30px;
+  font-size: 22px;
+}
+
+.signature {
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+
   
